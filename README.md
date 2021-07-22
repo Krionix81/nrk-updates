@@ -1,2 +1,2 @@
 # nrk-updates
-GitHub updates integration for L-Petro software
+GitHub update integration for L-Petro software
